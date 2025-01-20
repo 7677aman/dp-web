@@ -3,7 +3,7 @@ import logo from '../assets/logo.svg';
 
 function Loader() {
   return (
-    <div className='flex justify-center h-dvh items-center'>
+    <div className='fle justify-center h-dvh items-center'>
         <img src={logo} />
     </div>
   )
